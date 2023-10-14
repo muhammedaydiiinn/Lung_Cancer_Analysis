@@ -4,6 +4,7 @@
 ## Veri Seti
 
 **Veri Kaynağı**: Kullandığımız veri seti, [[lung_cancer](https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer/)] adresinden indirildi ve içerisinde akciğer kanseri teşhisine ilişkin demografik ve klinik bilgileri içeriyor.
+**Kaggle Linki**: Projemin kaggle linki ➡️  [[Lung Cancer](https://www.kaggle.com/code/muhammedaydin/lung-cancer)] 
 
 ## Analiz ve Sonuçlar
 
