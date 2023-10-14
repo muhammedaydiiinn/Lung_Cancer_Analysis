@@ -3,7 +3,7 @@
 **Proje Açıklaması**: Bu proje, akciğer kanseri teşhisinde kullanılmak üzere bir yapay sinir ağı (ANN) modeli geliştirmek amacıyla gerçekleştirilen veri analizini içerir.
 ## Veri Seti
 
-**Veri Kaynağı**: Kullandığımız veri seti, [[lung_cancer](https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer/)] adresinden indirildi ve içerisinde akciğer kanseri teşhisine ilişkin demografik ve klinik bilgileri içeriyor.
+**Veri Kaynağı**: Kullandığımız veri seti, [[lung_cancer](https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer/)] adresinden indirildi ve içerisinde akciğer kanseri teşhisine ilişkin demografik ve klinik bilgileri içeriyor.  
 **Kaggle Linki**: Projemin kaggle linki ➡️  [[Lung Cancer](https://www.kaggle.com/code/muhammedaydin/lung-cancer)] 
 
 ## Analiz ve Sonuçlar
